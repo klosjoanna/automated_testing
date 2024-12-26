@@ -1,0 +1,5 @@
+> Wstęp do repozytorium.
+
+Kurs na temat automatyzacji testów.
+
+Kurs Udemy.
